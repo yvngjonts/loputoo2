@@ -6,8 +6,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Jonne Lõputöö");
+            Console.WriteLine("--------------------------------------------");
             Console.WriteLine("Sisesta number");
             Console.WriteLine("1. SwitchMethod");
+            Console.WriteLine("--------------------------------------------");
 
             int number = int.Parse(Console.ReadLine());
 
